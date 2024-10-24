@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.navitem {
+  margin: 1;
+  padding: 18px;
+  background-color: #0b51e9;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+.NAV_LINK {
+  display: flex;
+  cursor: pointer;
+  letter-spacing: 1px;
+  gap: 15px;
+  font-size: 19px;
+  justify-content: space-between;
+}
+.navitem_logo {
+  font-size: 19px;
+  letter-spacing: 2px;
+  font-weight: bold;
+  color: rgb(255, 255, 9);
+}
+
