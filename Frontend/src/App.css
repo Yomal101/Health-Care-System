@@ -1,0 +1,3 @@
+.auth_input[type="email"] {
+    text-transform: lowercase;
+  }
